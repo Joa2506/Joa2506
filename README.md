@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joa2506
-- 👀 I’m interested in computer vision, image processing, low level programming and GPU programming
-- 🌱 I’m currently spending alot of time learning machine learning, image processing, X86 and ARM assembly.
+- 👀 I’m interested in computer vision, image processing, low level programming, GPU programming and system architecture
+- 🌱 I’m currently spending alot of time learning machine learning, image processing, X86 and ARM assembly and Rust.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me joakim_fossj@hotmail.com, +4795021038
 
